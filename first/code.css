@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.firstRed{
+    width: 32%;
+    height: 120px;
+    background-color: red;
+    display: inline-block;
+    margin: 7px;
+}
+.firstBlue{
+    width: 32%;
+    height: 120px;
+    background-color: blue;
+    display: inline-block;
+    margin: 7px;
+}
+.firstBlack{
+    width: 32%;
+    height: 120px;
+    background-color: black;
+    display: inline-block;
+    margin: 7px;
+}
+.parentDiv1{
+}
+
+.secondRed{
+    width: 40%;
+    height: 215px;
+    background-color: red;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.secondBlue{
+    width: 59.6%;
+    height: 215px;
+    background-color: blue;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.thirdBlue{
+    width: 100%;
+    height: 110px;
+    background-color: blue;
+}
+
+.thirdRed{
+    width: 30%;
+    height: 110px;
+    background-color: red;
+    float: right;
+}
+
+.gray{
+    width: 72%;
+    height: 110px;
+    background-color: gray;
+    float: right;
+    margin-left: 30px;
+    margin-right: 50px;
+}
